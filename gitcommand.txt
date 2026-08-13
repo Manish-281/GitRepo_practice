@@ -1,0 +1,38 @@
+   2 git init                                                                                    
+   3 cd .git                                                                                     
+   4 ls                                                                                          
+   5 clear                                                                                       
+   6 git status                                                                                  
+   7 cd /                                                                                        
+   8 cd .\GitRepo                                                                                
+   9 git status                                                                                  
+  10 dir                                                                                         
+  11 git status                                                                                  
+  12 git add .\testing.py                                                                        
+  13 git status                                                                                  
+  14 pwd                                                                                         
+  15 git rm --cacheed .\testing.py                                                               
+  16 git rm --cached .\testing.py                                                                
+  17 git status                                                                                  
+  18 git add .                                                                                   
+  19 git status                                                                                  
+  20 git commit -m "addes testing file"                                                          
+  21 git config --global user."paulmanish670@gmail.com"                                          
+  22 git config --global user."manish"                                                           
+  23 git status                                                                                  
+  24 git commit -m "added testing file"                                                          
+  25 git config --global user.name "Rahul Sharma"                                                
+  26 clear                                                                                       
+  27 ls                                                                                          
+  28 clear                                                                                       
+  29 git status                                                                                  
+  30 git commit -m "testing file added"                                                          
+  31 git config --global user.email "paulmanish670@gmail.com"                                    
+  32 git config --global user.name "manish"                                                      
+  33 git status                                                                                  
+  34 git config --global user.name "Manis"                                                       
+  35 git config --global user.email "manis670@.com"                                              
+  36 git config -m "testing file added"                                                          
+  37 git commit -m "testing file added"                                                          
+  38  git status                                                                                 
+  39 git status       
