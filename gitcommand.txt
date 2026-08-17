@@ -35,4 +35,42 @@
   36 git config -m "testing file added"                                                          
   37 git commit -m "testing file added"                                                          
   38  git status                                                                                 
-  39 git status       
+  39 git status        2 cd /                                                                                        
+   3 mkdir git-demo                                                                              
+   4 ls                                                                                          
+   5 cd D:\git-demo                                                                              
+   6 ls                                                                                          
+   7 clear                                                                                       
+   8 ls                                                                                          
+   9 ls                                                                                          
+  10 git clone https://github.com/Manish-281/github-for-devops-workshop.git                      
+  11 ls                                                                                          
+  12 cd .\github-for-devops-workshop                                                             
+  13 ls                                                                                          
+  14 clear                                                                                       
+  15 ls                                                                                          
+  16 clear                                                                                       
+  17 git status                                                                                  
+  18 ls                                                                                          
+  19 history                                                                                     
+  20 git log                                                                                     
+  21 git log --graph --oneline                                                                   
+  22 clear                                                                                       
+  23 cd /                                                                                        
+  24 cd .\GitRepo                                                                                
+  25 ls                                                                                          
+  26 git push origin master                                                                      
+  27 git add .\file.css                                                                          
+  28 git status                                                                                  
+  29 git commit -m "this is css file"                                                            
+  30 git push origin master                                                                      
+  31 git status                                                                                  
+  32 git status .\file.css                                                                       
+  33 celar                                                                                       
+  34 clear                                                                                       
+  35 git push origin master                                                                      
+  36 git add                                                                                     
+  37 git add file.css                                                                            
+  38 git status                                                                                  
+  39 git commit -m "changed this second line"                                                    
+  40 git push origin master 
