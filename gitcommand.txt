@@ -74,3 +74,4 @@
   38 git status                                                                                  
   39 git commit -m "changed this second line"                                                    
   40 git push origin master 
+  41 clear
